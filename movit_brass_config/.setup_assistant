@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: urdf_brass23
+    relative_path: urdf/urdf_brass23.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/urdf_brass23.srdf
+  CONFIG:
+    author_name: Joan Puig Perez
+    author_email: joan.puig.perez@estudiantat.upc.edu
+    generated_timestamp: 1691083182
