@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<Foundry>
-<VM>
-<VMId type="string">52 81 02 b7 64 1c a1 bf-e4 36 74 51 64 22 4d 01</VMId>
-<ClientMetaData>
-<clientMetaDataAttributes/>
-<HistoryEventList/></ClientMetaData>
-<vmxPathName type="string">activitat_grass_2023.vmx</vmxPathName></VM></Foundry>
